@@ -79,7 +79,7 @@ export function App() {
   );
 
   return (
-    <div className="container" style={{ padding: '20px', fontFamily: 'Arial, sans-serif', color: '#fff' }}>
+    <div className="container" style={{ padding: '20px', fontFamily: 'Arial, sans-serif', color: '#878383' }}>
       <h1>Pulso Abierto (Versión React)</h1>
       <img src="/react.svg" alt="atomo de react" />
       <p>Cotizaciones de criptomonedas en tiempo real con formulario controlado y Zod.</p>

@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 export function NotFoundPage() {
   return (
-    <div style={{ padding: '40px', color: '#fff', textAlign: 'center', fontFamily: 'Arial' }}>
+    <div style={{ padding: '40px', color: '#747171', textAlign: 'center', fontFamily: 'Arial' }}>
       <h1>404 - Página no encontrada</h1>
       <img  src="/noencontrada.jpg" alt="Imagen de error 404" 
         style={{ 

@@ -45,7 +45,7 @@ export function DetailPage() {
   });
 
   return (
-    <div style={{ padding: '20px', color: '#fff', fontFamily: 'Arial' }}>
+    <div style={{ padding: '20px', color: '#747171', fontFamily: 'Arial' }}>
       <h1>Detalle de: {crypto.name} ({crypto.symbol.toUpperCase()})</h1>
       <p>Moneda digital oficial registrada en el sistema.</p>
       <div style={{ background: '#222', padding: '20px', borderRadius: '8px', maxWidth: '400px', margin: '40px auto' }}>
